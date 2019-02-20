@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">peliculas</string>
+    <string name="titulo1">Titulo 1</string>
+    <string name="descripcion1">Descripcion 1</string>
+    <string name="titulo2">Titulo 2</string>
+    <string name="descripcion2">Descripcion 2</string>
+    <string name="titulo3">Titulo 3</string>
+    <string name="descripcion3">Descripcion 3</string>
+</resources>
